@@ -1,0 +1,115 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.main{
+    height: 2000px;
+    width: 1000px;
+    background-color: deeppink;
+    margin: auto;
+    
+}
+.header{
+    height: 200px;
+    width: 1000px;
+    float: left;
+    background-color: black;
+}
+.logo{
+    height: 200px;
+    width: 250px;
+    background-color: whitesmoke;
+    background-image: url(../images/mobilelogo.png);
+    float: left;
+}
+.social{
+    height: 150px;
+    width: 750px;
+    background-color: #E4CD05;
+    float: left;
+}
+.social img{
+    height: 150px;
+    width: 750px;
+}
+.menu{
+    height: 50px;
+    width: 750px;
+    background-color: ;
+    float: left;
+}
+.menu ul li{
+    float: left;
+    background-color:whitesmoke;
+     width: 150px;
+     height: 25px;
+     margin-top: 12px;
+     margin-left: 30px;
+     text-align: center;
+     line-height: 25px;
+     list-style: none;
+}
+.menu ul li a:hover{
+    cursor: pointer;
+    color: #E0115F;
+}
+.container{
+    height: 1700px;
+    width: 1000px;
+    float: left;
+}
+.carasoul{
+    height:850px;
+    width: 1000px;
+    background-color: palegreen;
+}
+.carasoulchild{
+    height: 425px;
+    width: 1000px;
+    background-color: #E0115F;
+}
+.gallery{
+    height: 850px;
+    width: 1000px;
+    background-color: #E4CD05;
+}
+.gallerychild{
+    height: 425px;
+    width: 1000px;
+    background-color: aquamarine;
+}
+.carasoul img{
+    height: 425px;
+    width: 1000px;
+
+}
+.carasoulchild img{
+    height: 425px;
+    width: 1000px;
+}
+.gallery img{
+    height: 425px;
+    width: 1000px;
+}
+.gallery img{
+    height: 425px;
+    width: 1000px;
+}
+
+.footer{
+    height: 100px;
+    width: 1000px;
+    background-color: black;
+    float: left;
+}
+h3{
+    color:white;
+    margin-top: 50px;
+    margin-left: 60px;
+}
+ 
+
+
+
+   
+ 
